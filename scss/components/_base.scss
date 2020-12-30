@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Inconsolata", monospace;
+  background: #ccc url(../images/photography.png) repeat;
+  font-weight: 300;
+  line-height: 1.9;
+  color: #6c757d;
+}
+
+.main-box {
+  overflow: hidden;
+  width: 1250px;
+  margin: 0 auto;
+  background-color: white;
+}
+
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
